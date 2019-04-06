@@ -1,2 +1,2 @@
 # ZTech
-Another minecraft technic themed mod
+Another technic themed minecraft mod
